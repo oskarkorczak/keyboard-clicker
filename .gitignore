@@ -4,3 +4,19 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse specific settings
+.classpath
+.project
+.settings
+
+# IntelliJ Idea settings
+.idea
+singleton.iml
+
+# Gradle
+.gradle/
+
+# Binaries
+target
+build
