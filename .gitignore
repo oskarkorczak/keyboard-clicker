@@ -12,7 +12,7 @@
 
 # IntelliJ Idea settings
 .idea
-singleton.iml
+keyboard-clicker.iml
 
 # Gradle
 .gradle/
